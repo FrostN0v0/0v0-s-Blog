@@ -29,3 +29,4 @@ jobs:
           local-dir: public/
         env:
           CI: true
+          
