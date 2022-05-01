@@ -26,6 +26,6 @@ jobs:
           ftp-server: ftp://1.116.159.162:21
           ftp-username: ${{ secrets.ftp_user }}
           ftp-password: ${{ secrets.ftp_pwd }}
-          local-dir: build/
+          local-dir: public/
         env:
           CI: true
