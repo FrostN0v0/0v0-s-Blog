@@ -1,10 +1,10 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
 title: 0v0-Docs
-subtitle: 'Hello Minecraft!'
+subtitle: 'Hello !'
 description: '0v0的个人博客'
 keywords:
 author: FrostN_0v0
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: Sakura
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
