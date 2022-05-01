@@ -17,8 +17,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install
-      - run: npm install hexo
-      - run: hexo generate
+      - run: npm run build
       - run: git status -uno -u
       - run: git stash
       - name: FTP Deploy
